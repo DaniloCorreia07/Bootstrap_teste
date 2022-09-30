@@ -5853,7 +5853,7 @@ textarea.form-control-lg {
 }
 @media (prefers-reduced-motion: reduce) {
   .carousel-item {
-    transition: none;
+    transition: 0.5s;
   }
 }
 
